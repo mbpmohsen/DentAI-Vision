@@ -1,0 +1,40 @@
+#Train: Train.txt
+#names:
+#  0: tooth
+#  1: Impacted
+#  2: Cysts
+#  3: Bone Loss
+#  4: Root Canal Issues
+#  5: Malocclusion
+#  6: Tooth Wear
+#  7: Implant
+#  8: Periodontal Disease
+#  9: Abscesses
+#  10: Infections
+#  11: Orthodontic Planning
+#  12: Fractures
+#  13: Missing Teeth
+#  14: Extra Teeth
+#  15: Tumors
+#path: .
+
+train: /Users/mohsen/Projects/my_tooth_counter/Impacted_teeth_dataset/images/Train
+val: /Users/mohsen/Projects/my_tooth_counter/Impacted_teeth_dataset/images/Train
+nc: 16
+names:
+  0: tooth
+  1: Impacted
+  2: Cysts
+  3: Bone Loss
+  4: Root Canal Issues
+  5: Malocclusion
+  6: Tooth Wear
+  7: Implant
+  8: Periodontal Disease
+  9: Abscesses
+  10: Infections
+  11: Orthodontic Planning
+  12: Fractures
+  13: Missing Teeth
+  14: Extra Teeth
+  15: Tumors

@@ -29,3 +29,29 @@ curl -X 'POST' \
   -H 'Content-Type: multipart/form-data' \
   -F 'file=@path_to_your_image/image.png'
 ```
+
+[ Todo ] 1. Cavities (Caries): Early-stage or hidden decay.
+
+[ Todo ] 2. Periodontal Disease: Bone loss or gum disease.
+
+[ Todo ] 3. Abscesses and Infections: Infections at the root or surrounding bone.
+
+[ Todo ] 4. Impacted Teeth: Wisdom teeth or other teeth that haven’t erupted properly.
+
+[ Todo ] 5. Fractures: Tooth or jaw fractures.
+
+[ Todo ] 6. Cysts and Tumors: Pathological growths.
+
+[ Todo ] 7. Bone Loss: Associated with diseases like osteoporosis.
+
+[ Todo ] 8. Root Canal Issues: Infection or incomplete treatments.
+
+[ Todo ] 9. Malocclusion: Misaligned teeth and bite issues.
+
+[ Todo ] 10. Orthodontic Planning: For braces or aligners.
+
+[ Todo ] 11. Missing or Extra Teeth (Supernumerary teeth): Presence of extra or missing teeth.
+
+[ Todo ] 12. Tooth Wear: From grinding or erosion.
+
+[ Todo ] 13. Implant Planning: Assessing bone density and structure.

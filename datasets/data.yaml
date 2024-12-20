@@ -1,4 +1,4 @@
 train: /Users/mohsen/Projects/my_tooth_counter/datasets/images/Train
-val: /Users/mohsen/Projects/my_tooth_counter/datasets/images/Train  # Assuming you have a validation set or use the training set for validation
-nc: 1  # Number of classes (adjust based on your project)
-names: ['tooth']  # List of class names
+val: /Users/mohsen/Projects/my_tooth_counter/datasets/images/Train
+nc: 1
+names: ['tooth']
