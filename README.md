@@ -32,11 +32,11 @@ curl -X 'POST' \
 
 [ Todo ] 1. Cavities (Caries): Early-stage or hidden decay.
 
-[ Todo ] 2. Periodontal Disease: Bone loss or gum disease.
+[ Done ] 2. Periodontal Disease: Bone loss or gum disease.
 
 [ Todo ] 3. Abscesses and Infections: Infections at the root or surrounding bone.
 
-[ Todo ] 4. Impacted Teeth: Wisdom teeth or other teeth that haven’t erupted properly.
+[Done] 4. Impacted Teeth: Wisdom teeth or other teeth that haven’t erupted properly.
 
 [ Todo ] 5. Fractures: Tooth or jaw fractures.
 

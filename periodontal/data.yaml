@@ -1,0 +1,23 @@
+train: /Users/mohsen/Projects/my_tooth_counter/periodontal/images/Train
+val: /Users/mohsen/Projects/my_tooth_counter/periodontal/images/Train
+names:
+  0: Bone loss
+  1: Healthy level of bone
+  2: tooth
+  3: Impacted
+  4: Cysts
+  5: Root Canal Issues
+  6: Malocclusion
+  7: Tooth Wear
+  8: Implant
+  9: Periodontal Disease
+  10: Abscesses
+  11: Infections
+  12: Orthodontic Planning
+  13: Fractures
+  14: Missing Teeth
+  15: Extra Teeth
+  16: Tumors
+  17: Horizontal Bone Loss
+  18: Vertical Bone Loss
+path: .
